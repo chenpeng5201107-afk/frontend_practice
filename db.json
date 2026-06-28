@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "content": "数学卷子一套",
+      "done": false,
+      "id": "KNcCp5v-Qeo"
+    },
+    {
+      "content": "历史选择题过一遍",
+      "done": false,
+      "id": "SdHrm2BfhYk"
+    },
+    {
+      "content": "敲代码",
+      "done": true,
+      "id": "j2z5JztzUyc"
+    },
+    {
+      "content": "电路作业",
+      "done": false,
+      "id": "oi27TRJ3agY"
+    },
+    {
+      "content": "复印作业（历史、电路）",
+      "done": false,
+      "id": "6Y8MZ3NHfeI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
